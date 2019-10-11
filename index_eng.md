@@ -9,7 +9,7 @@ Along with the new encodings, compatibility problems appeared (the same number c
 
 
 
- ASCII| Binary    | Ыньищд
+ ASCII| Binary    | Symbol
 ------| ---------| ----
 65| 01000001|A
 74| 01001010 |J
