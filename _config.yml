@@ -1,7 +1,7 @@
 relative_links:
   enabled: true
   collections: true
-markdown: GFM
+markdown: kramdown
 include:
 
   - index.md
