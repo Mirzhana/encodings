@@ -1,6 +1,6 @@
 ## Юникод - глобальный стандарт по поддержке всех языков мира
 
-[EN](https://mirzhana.github.io/encodings/index_eng) [GitHub](https://github.com/Mirzhana/encodings/)
+[EN](https://mirzhana.github.io/encodings/index_eng)   [GitHub](https://github.com/Mirzhana/encodings/)
 
 ### До появления **Unicode**
 
