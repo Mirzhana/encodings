@@ -24,8 +24,37 @@
                     color: #000000;">
 <style>
 table{
-  width:50%;
+     display: block;
+    width: 100%;
+    overflow: auto;
+  border-spacing: 0;
+    border-collapse: collapse;
+  border-color: grey;
 }
+  thead {
+    display: table-header-group;
+    vertical-align: middle;
+    border-color: inherit;
+ }
+  tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+  tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+        background-color: #fff;
+    border-top: 1px solid #c6cbd1;
+}
+  td {
+    display: table-cell;
+    vertical-align: inherit;
+    padding: 6px 13px;
+    border: 1px solid #dfe2e5;
+}
+  
 </style>
     <div class="container-lg px-3 my-5 markdown-body">
 
