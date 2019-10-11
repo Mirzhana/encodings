@@ -1,5 +1,5 @@
 ## Unicode - the global standard for supporting all languages of the world
-[RU](https://mirzhana.github.io/encodings/index_eng)   [GitHub](https://github.com/Mirzhana/encodings/)
+[RU](https://mirzhana.github.io/encodings/index)          [GitHub](https://github.com/Mirzhana/encodings/)
 
 ### Before **Unicode**
 
