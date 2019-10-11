@@ -40,7 +40,10 @@ _Символы высокого порядка_
 Зачастую, некоторые локальные и не широко распространенные символы занимают меньше памяти в кодировке UTF-16, нежели в кодировке UTF-8. То есть, в некоторых случаях UTF-8 может выделять 4 байта на кодировку символа в то время как UTF-16 выделяет минимальные 2 байта. Для большинства данных и программ использующих азиатские языки и иероглифы, UTF-16 более эффективен
 
 _Примеры_
-![alt text](https://github.com/Mirzhana/encodings/blob/master/img/example.jpg " ")
+![alt text](https://github.com/Mirzhana/encodings/blob/master/img/example.jpg?raw=true " ")
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 
 ### Сравнительная таблица кодировок **UTF-8** и **UTF-16**
