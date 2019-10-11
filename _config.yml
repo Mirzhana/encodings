@@ -5,6 +5,7 @@ markdown: GFM
 include:
 
   - index.md
+  - index_eng.md
 
 
 theme: jekyll-theme-cayman
