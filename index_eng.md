@@ -49,6 +49,7 @@ _Example_
 
 ### **UTF-8** and **UTF-16** comparison table
 
+
  ASCII             | UTF-8    | UTF-16
 -------------------| ---------| ----
 Used memory | 8 bit |16 bit
@@ -58,6 +59,7 @@ High-order symbols| worse |better
 
 
 ### Internal encoding in different programming languages
+
 
  Language             | encoding   
 -------------------| ---------
